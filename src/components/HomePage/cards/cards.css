@@ -1,0 +1,83 @@
+.cardContainer{
+    background: transparent url('/public/Group5833.svg') 0% 0% no-repeat;
+    opacity: 1;
+    height: 283px;
+    width: 520px;
+    margin-top: 30px;
+    margin-left: 70px;
+    /* display: table-cell; */
+    border-radius: 30px;
+}
+
+.cardMain{
+    display: flex;
+    flex-direction: row;
+} 
+.cardGroup{
+    /* width: 2360px; */
+    display: flex;
+    flex-direction: row;
+    overflow: scroll;
+    flex-wrap: nowrap;
+    /* max-width: 1400px; */
+}
+
+
+
+.card-title{
+    text-align: left;
+    font: normal normal bold 26px FSAlbert;
+    letter-spacing: 0.31px;
+    color: #FFFFFF;
+    opacity: 1;
+    padding-top: 50px;
+    padding-left: 34px;
+}
+
+.card-description{
+    text-align: left;
+    font: normal normal normal 18px FSAlbert;
+    letter-spacing: 0.26px;
+    color: #FFFFFF !important;
+    opacity: 1;
+    padding-left: 34px;
+    padding-top: 27px;
+    width:395px;
+}
+
+.know__More{
+    text-align: left;
+    font: normal normal normal 18px FSAlbert;
+    letter-spacing: 0.26px;
+    color: #FFFFFF;
+    opacity: 1;
+    padding-left: 34px;
+    padding-top: 27px;
+}
+
+.know__More__icon{
+    margin-left: 18px;
+    padding: 5px 10px;
+    background-color: #FFFFFF;
+    border-radius: 30px;
+    color: black;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  /* ::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  } */
+   
+  /* Handle */
+  /* ::-webkit-scrollbar-thumb {
+    background: #888; 
+  } */
+  
+  /* Handle on hover */
+  /* ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  } */

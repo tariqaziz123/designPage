@@ -1,0 +1,89 @@
+.upcoming-exam-container{
+    display: inline-block;
+    padding-top: 20px;
+}
+
+.upcoming-exam-headings{
+    border-right:2px rgb(210, 202, 202) solid;
+}
+
+.upcoming-exam-title{
+    text-align: left;
+    font: normal normal bold 25px FSAlbert;
+    letter-spacing: 0.64px;
+    color: #12406F;
+    opacity: 1;
+}
+
+.upcoming-exam-description{
+    text-align: left;
+    font: normal normal 300 12px FSAlbert;
+    letter-spacing: 0.29px;
+    color: #525252;
+    opacity: 1;
+}
+
+.recent-exam-title{
+    text-align: left;
+    font: normal normal bold 17px FSAlbert;
+    letter-spacing: 0.38px;
+    color: #12406F;
+    margin-bottom: 0px !important;
+}
+
+.exam_level{
+    text-align: left;
+    font: normal normal normal 12px FSAlbert;
+    letter-spacing: 0.38px;
+    color: #525252;
+}
+
+.recent__exam{
+    display: inline-flex;
+}
+
+
+.recent__exam_desc{
+    padding-left: 20px;
+}
+
+.future__exam{
+    display: inline-flex;
+}
+
+.future-exam-title{
+    text-align: left;
+    font: normal normal bold 17px FSAlbert;
+    letter-spacing: 0.38px;
+    color: #12406F;
+    margin-bottom: 0px !important;
+}
+
+.future__exam_desc{
+    padding-left: 20px;
+}
+
+.future_exam_level{
+    text-align: left;
+    font: normal normal normal 12px FSAlbert;
+    letter-spacing: 0.38px;
+    color: #525252;
+    /* margin-bottom: 0rem !important; */
+}
+
+.ongoing__exam{
+    display: inline-flex;
+}
+
+.ongoing__exam_desc{
+    padding-left: 20px;
+}
+
+.ongoing-exam-title{
+    text-align: left;
+    font: normal normal bold 17px FSAlbert;
+    letter-spacing: 0.38px;
+    color: #12406F;
+    margin-bottom: 0px !important;
+}
+

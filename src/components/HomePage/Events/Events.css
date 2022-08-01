@@ -1,0 +1,25 @@
+.events-container{
+    background: transparent url('/public/Group17221.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    height: 200px;
+}
+
+.events__date{
+    text-align: left;
+    font: normal normal normal 14px FSAlbert;
+    letter-spacing: 0.29px;
+    color: #54A0D4;
+    opacity: 1;
+    padding-top: 53px;
+    padding-left: 70px;
+}
+
+.events__desc{
+    text-align: left;
+    font: normal normal bold 23px FSAlbert;
+    letter-spacing: 0.51px;
+    color: #FFFFFF;
+    opacity: 1;
+    padding-left: 70px;
+    width: 260px;
+}

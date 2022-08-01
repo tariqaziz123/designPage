@@ -1,0 +1,66 @@
+.about_us{
+    margin-top: 50px;
+}
+.team_work{
+   
+}
+
+.teamwork_image{
+    background: transparent url('/public/Rectangle2385.png') 0% 0% no-repeat padding-box;
+    border-radius: 26px 26px 0px 0px;
+    opacity: 1;
+    max-width: 420px;
+    height: 275px;
+}
+
+.teamwork_title{
+    background: #54A0D4 0% 0% no-repeat padding-box;
+    border-radius: 26px 0px;
+    opacity: 1;
+    text-align: left;
+    width: 150px;
+    padding-left: 5px;
+}
+
+.teamwork_description{
+    text-align: left;
+    font: normal normal normal 18px FSAlbert;
+    letter-spacing: 0.42px;
+    color: #525252;
+    opacity: 1;
+    padding-left: 15px;
+    padding-top: 20px;
+}
+
+.aboutus_knowmore{
+    text-align: left;
+    font: normal normal normal 17px FSAlbert;
+    letter-spacing: 0.26px;
+    color: #12406F;
+    opacity: 1;
+    padding-left: 15px;
+    padding-top: 20px;
+}
+
+.profile_image{
+    background: transparent url('/public/MaskGroup90.png') 0% 0% no-repeat padding-box;
+    border-radius: 26px 26px 0px 0px;
+    opacity: 1;
+    max-width: 420px;
+    height: 275px;
+}
+
+.points_image{
+    background: transparent url('/public/Rectangle_2385.png') 0% 0% no-repeat padding-box;
+    border-radius: 26px 26px 0px 0px;
+    opacity: 1;
+    max-width: 420px;
+    height: 275px;
+}
+
+.view_all_icon{
+    background-color: #12406F;
+    color: white;
+    padding:5px 8px;
+    border-radius: 30px;
+}

@@ -1,0 +1,75 @@
+.navbar__container{
+    top: 50px;
+    left: 0px;
+    /* width: 1920px; */
+    height: 130px;
+    /* UI Properties */
+    background: #12406F 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+}
+
+.navbar-brand{
+    top: 80px;
+    left: 140px;
+    width: 92px;
+    height: 46px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal bold 34px/46px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    padding: 30px;
+    margin-right: 46px;
+}
+
+.right__items{
+    top: 93px;
+    left: 808px;
+    width: 137px;
+    height: 25px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal bold 18px FSAlbert;
+    letter-spacing: 0.26px;
+    color: #FFFFFF;
+    opacity: 1;
+    float: right;
+    margin-left:5vw;
+}
+
+.item__dropdown{
+    color: #FFFFFF;
+    padding: 30px;
+}
+
+.button{
+    top: 76px;
+    /* left: 1690px; */
+    width: 130px;
+    height: 62px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+    /* margin-top: 20px; */
+    border-radius: 30px;
+}
+
+.enrolment__button{
+    /* top: 95px;
+    left: 1728px;
+    width: 102px;
+    height: 25px; */
+    text-align: left;
+    font: normal normal bold 18px FSAlbert;
+    letter-spacing: 0.26px;
+    color: #12406F;
+    opacity: 1;
+    padding: 19px;
+    }
+
+.row>*{
+    padding-right: 0px !important;
+    padding-left: 43px !important;
+}

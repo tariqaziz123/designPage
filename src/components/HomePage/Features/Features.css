@@ -1,0 +1,86 @@
+.featuresContainer{
+    background: #F6F6F6 0% 0% no-repeat padding-box;
+    margin-top: 50px;
+    color:#12406F;
+    padding: 10px;
+    padding-right: 20px;
+}
+
+.features__title{
+    text-align: left;
+    font: normal normal bold 28px FSAlbert;
+    letter-spacing: 0.64px;
+    /* color: #12406F; */
+    opacity: 1;
+    margin-bottom: 10px;
+}
+
+.features__view{
+    text-align: right;
+    font: normal normal normal 17px FSAlbert;
+    letter-spacing: 0.26px;
+    /* color: #12406F; */
+    opacity: 1;
+}
+
+.quote{
+    padding: 10px 29px
+}
+
+.quote_title{
+    text-align: center;
+    font: normal normal bold 22px FSAlbert;
+    letter-spacing: 0.42px;
+    color: #12406F;
+    opacity: 1;
+    padding: 40px;
+    padding-bottom: 0px;
+}
+
+.quote_details{
+    text-align: left;
+    font: normal normal normal 12px FSAlbert;
+    letter-spacing: 0.32px;
+    color: #525252;
+    opacity: 1;
+    padding: 0px 52px;
+}
+
+.register_date{
+    text-align: left;
+    font: normal normal normal 14px FSAlbert;
+    letter-spacing: 0.29px;
+    color: #12406F;
+    opacity: 1;
+    padding-left: 10px;
+}
+
+.date_title{
+    text-align: left;
+    font: normal normal bold 22px FSAlbert;
+    letter-spacing: 0.42px;
+    color: #12406F;
+    opacity: 1;
+    padding: 10px;
+    padding-bottom: 0px;
+}
+
+.date_details{
+    text-align: left;
+    font: normal normal normal 12px FSAlbert;
+    letter-spacing: 0.32px;
+    color: #525252;
+    opacity: 1;
+    padding: 0px 10px;
+}
+
+.register{
+    text-align: left;
+    text-decoration: underline;
+    font: normal normal bold 14px FSAlbert;
+    letter-spacing: 0.29px;
+    color: #12406F;
+    opacity: 1;
+    padding-right: 183px;
+    margin-bottom: 5px;
+}

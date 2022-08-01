@@ -1,0 +1,53 @@
+.contact-container{
+    background: transparent url('/public/Group17432.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.contactUs{
+    padding-top: 38px;
+    padding-left: 74px;
+    padding-bottom: 61px;
+}
+
+.contact-title{
+    text-align: left;
+    font: normal normal bold 25px FSAlbert;
+    letter-spacing: 0.48px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.contact-description{
+    text-align: left;
+    font: normal normal normal 16px FSAlbert;
+    letter-spacing: 0.29px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.follow-title{
+    text-align: center;
+    font: normal normal bold 25px FSAlbert;
+    letter-spacing: 0.48px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.social_media{
+    width: 30px;
+    padding-right: 10px;
+}
+    
+.address{
+    color:#FFFFFF;
+}
+
+.address_desc{
+    text-align: left;
+    font: normal normal normal 14px FSAlbert;
+    letter-spacing: 0.29px;
+    color: #FFFFFF;
+    opacity: 1;
+    margin-left: 10px;
+    padding: 10px;
+}
